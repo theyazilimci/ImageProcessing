@@ -1,3 +1,1 @@
-# ImageProcessing
-
-## Basics Methods of image processing in python 
+# Basics Methods of image processing in python 
